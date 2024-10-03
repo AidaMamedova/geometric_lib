@@ -71,6 +71,11 @@ def perimeter(a,b,c):
 >Пример вызова: perimeter(4,5,7) → 16
 
 
+# Changelog
+-[Added rectangle.py] (https://github.com/smartiqaorg/geometric_lib/commit/6d15e314398cc2e3dfbf18fb3cdb90daf24b94d2)
+-[Added triangle.py] (https://github.com/smartiqaorg/geometric_lib/commit/84ae98c85f532cabc9822052d5e5da32e107d2f1)
+-[Added rectangle.py] (https://github.com/smartiqaorg/geometric_lib/commit/628328078ec710a38c6fc1148d84cbcd4bc9fd2d)
+-[Added documentation] (https://github.com/smartiqaorg/geometric_lib/commit/7dc3cd4694c1f26b8e3bf53f1f29c112c5994376)
 
 
 
