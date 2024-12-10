@@ -1,7 +1,15 @@
+def area(a, h): 
+    '''
+    Возвращает площадь треугольника
 
-def area(a):
-    return a * a
+    Возвращаемое значение:
+    a * h / 2: искомая площадь прямоугольника
+    '''
+    return a * h / 2 
 
-
-def perimeter(a):
-    return 4 * a
+def perimeter(a, b, c): 
+    '''
+    Возвращает периметер треугольника
+    a + b + c
+    '''
+    return a + b + c 
